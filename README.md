@@ -20,4 +20,4 @@ Evaluation, model optimization, agent reliability and applied forecasting.
 
 ## Contact
 
-Email, LinkedIn and portfolio links: to be added.
+[Email](mailto:ansartleubaev1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ansar-tleubayev/)
