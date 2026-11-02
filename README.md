@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ansar Tleubayev
 
-<!--
-**iencislennon/iencislennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer building agentic systems, applied ML pipelines and reliable AI products.
 
-Here are some ideas to get you started:
+Seeking international internships and research assistant roles. Based in Almaty, Kazakhstan. Open worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+**[Triton Kernel Optimization](https://github.com/iencislennon/triton_kernel_for_decentra)** - verified outcome and reproducibility
+
+**[CrisisNet](https://github.com/iencislennon/lablabhack)** - five-agent decision-support system
+
+**[PM2.5 Forecasting](https://github.com/iencislennon/Next-Day-PM2.5-Air-Quality-Forecasting-forAlmaty)** - leakage-aware forecasting pipeline
+
+**[Water Resources Platform](https://github.com/iencislennon/Integrated_Water_Resources_Assessment_Platform)** - geospatial ML dashboard
+
+## Current focus
+
+Evaluation, model optimization, agent reliability and applied forecasting.
+
+## Contact
+
+Email, LinkedIn and portfolio links: to be added.
